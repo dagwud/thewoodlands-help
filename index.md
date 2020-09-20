@@ -48,7 +48,7 @@ Note: It’s highly recommended that you play with a few friends (or strangers) 
 
   - [Looking around](look.md)
   - [Parties](parties.md)
-  - [Weapons](items/weapons.md), [Shields](items/shields.md) and [Trinkets](items/trinkets.md) 
+  - [Weapons](items/weapons.md), [Shields](/items/shields.md) and [Trinkets](items/trinkets.md) 
   - [Unconsciousness](unconscious.md) and [Death](death.md)
   - [Battles](battles.md)
 
