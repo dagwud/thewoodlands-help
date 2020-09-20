@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dagwud/thewoodlands-help/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to the Woodlands.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
+Out in the Old World, in a land that time forgot, stands a small village.
 
-### Markdown
+The village itself is fairly unremarkable, but for the fact that it exists. Once it was a key trade center, but
+  it’s nestled in a hotbed of powerful energies, and is surrounded by lands home to dark and dangerous creatures. Too
+  many shipments disappeared mysteriously in the area; entire caravans lost with scant few surviving to return, and
+  those who did told tales that few believed and even fewer wanted to.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Trade has all but dried up.
 
-```markdown
-Syntax highlighted code block
+The villagers have learned to survive by staying within the bounds of the Village, but the stories of beasts and
+  monsters have made it the go-to location for adventurers seeking thrills and fame.
 
-# Header 1
-## Header 2
-### Header 3
+You are one of these adventures.
 
-- Bulleted
-- List
+Will you make a name or glory and bravery? Of calmness in a dire situation? Or will your body be picked apart by
+  the wild beasts and your name lost to history?
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### TL;DR - Just Tell Me How to Play
+Note: It’s highly recommended that you play with a few friends (or strangers) in a party. The experience is much
+  better than going it alone - and soloing is hard.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  - Join the [telegram channel](https://t.me/woodlands_raven) to ask questions. But please RTFM before
+    asking.
+  - Create a character (/new).
+  - Head to the Tavern and join a party.
+  - Send the Party to the Petting Zoo to earn experience. When necessary, retreat to The Inn to rest.
+  - When you’re strong enough, start heading out into the mountain or The Woodlands instead of the Petting Zoo.
+  - By this point you should have a solid grasp of the game mechanics and can start exploring the game further.
 
-### Jekyll Themes
+### Locations to Visit
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dagwud/thewoodlands-help/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  - [Village Square](locations/village_square)
+  - [The Petting Zoo](locations/petting_zoo)
+  - [The Mountain](locations/mountain)
+  - [The Woodlands](locations/woodlands)
+  - [The Caverns](locations/cavern)
+  - [The Outpost](locations/outpost)
+  - [The Gorge](locations/gorge)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Things to Do
+
+  - [Looking around](look.md)
+  - [Parties](parties.md)
+  - [Weapons](items/weapons.md), [Shields](items/shields.md) and [Trinkets](items/trinkets.md) 
+  - [Unconsciousness](unconscious.md) and [Death](death.md)
+  - [Battles](battles.md)
+
+
+### More help
+
+  - [If the game seems stuck](stuck_game.md)
+  - [Telegram channel for help](https://t.me/woodlands_raven)
+
