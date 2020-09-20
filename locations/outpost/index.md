@@ -6,6 +6,6 @@ Out in the middle of nowhere, The Outpost was once a strategic military vantage 
 The Outpost can be reached via the road from the village (but beware of Bandits) or through the caves - if you can
   find your way.
 
-See: [The Alchemist](/docs/locations/alchemist), [The Bastion](/docs/locations/bastion/bastion.md), [Trade School](/docs/locations/trade_school/index.md), [The Cavern](/docs/locations/cavern/index.md)
+See: [The Alchemist](/locations/alchemist), [The Bastion](/locations/bastion/bastion.md), [Trade School](/locations/trade_school/index.md), [The Cavern](/locations/cavern/index.md)
 
 

@@ -6,6 +6,6 @@ The higher your level of study, the more effective your repair work (ie how many
   weapon). You’ll never be as good as the blacksmith though - at best, you can restore a weapon that’s got 0 hits
   remaining to 80% of its full heath. Repairing like this doesn’t require you to use another weapon for spares.
 
-See: [Study](/docs/locations/trade_school/study.md)
+See: [Study](/locations/trade_school/study.md)
 
 

@@ -7,6 +7,6 @@ Alcohol is freely available at The Tavern. The effects of alcohol are predictabl
 
 That said, it’s the best way to deal with the death of a fellow traveler.
 
-See: [Death](/docs/death.md)
+See: [Death](/death.md)
 
 

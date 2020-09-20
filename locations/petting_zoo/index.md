@@ -9,6 +9,6 @@ If any member of your party is badly damaged while fighting in the Petting Zoo, 
   while alone means that there is no one to carry you back to the Village, which means it will be the end of your
   adventures.
 
-See: [Battles](/docs/battles.md)
+See: [Battles](/battles.md)
 
 

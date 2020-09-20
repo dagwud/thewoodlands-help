@@ -11,7 +11,7 @@ Consumables are once-off items, typically potions that you can drink. They give 
 
 Potions can also be used to enchant items at the Alchemist.
 
-See: [Enchant Weapon](/docs/locations/alchemist/enchant_weapon.md) / [Enchant Shield](/docs/locations/alchemist/enchant_shield.md)
+See: [Enchant Weapon](/locations/alchemist/enchant_weapon.md) / [Enchant Shield](/locations/alchemist/enchant_shield.md)
 
 
 
