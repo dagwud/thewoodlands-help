@@ -1,5 +1,5 @@
 
-## Welcome to the Woodlands.
+## Welcome to the Woodlands
 
 ### Introduction
 Out in the Old World, in a land that time forgot, stands a small village.
