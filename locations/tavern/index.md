@@ -9,6 +9,6 @@ The barman is a wily character, whose slick ability to strike up a conversation 
 The back room of the tavern houses a perpetual poker table, and the dusty alley out back is the preferred spot for
   locals and adventurers alike to settle their grievances.
 
-See: [Drinking](/locations/tavern/drinking.md)
+See: [Drinking](/locations/tavern/drinking)
 
 
