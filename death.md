@@ -5,7 +5,7 @@ Fortunately, death isn’t that easy - you have to take a pretty big hit to die,
   your own, with nobody to drag you back to safety.
 
 If someone does die, they need to be honored and remembered. To cope with the loss, party members should host a
-  wake at the tavern, where they’ll drink to their fallen compatriot (and should then probably sleep it off at the
+  wake at [The Tavern](/locations/tavern/index.md), where they’ll drink to their fallen compatriot (and should then probably sleep it off at the
   Inn). Of course, if you’re not part of a party then there will be no one to mourn you. But that’s just sad.
 
 Tougher adventurers deserve bigger celebrations, and so the amount of alcohol consumed at a wake will be

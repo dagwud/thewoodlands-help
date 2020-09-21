@@ -1,5 +1,5 @@
 ### Bandits
-The road between the Village and The Outpost is a dangerous one, home to crews of bandits who prey on
+The road between [The Village](/locations/village_square/index.md) and [The Outpost](/locations/outpost/index.md) is a dangerous one, home to crews of [Bandits](bandits.md) who prey on
   travelers passing through.
 
 Fortunately they’re not generally predisposed to violence, so running into bandits will tend to leave you unharmed,

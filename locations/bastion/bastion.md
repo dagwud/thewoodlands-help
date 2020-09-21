@@ -3,7 +3,7 @@ This is a tower defense area. You don’t fight actively; rather, your role is t
   Village intact so that they can repel the invading horde.
 
 Each round, more and more creatures will attack at once. They will target the towers, and if the towers fall, they
-  will then attack the party. You’ll automatically retreat if anyone is badly injured (like in the petting zoo or the
+  will then attack the party. You’ll automatically retreat if anyone is badly injured (like in [The Petting Zoo](/locations/petting_zoo/index.md) or the
   mountain)
 
 You have three actions available to you:

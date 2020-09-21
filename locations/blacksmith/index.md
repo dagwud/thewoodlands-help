@@ -3,7 +3,7 @@ An honest man, the Blacksmith has nevertheless been accused of being a thief and
   travelers, and this reputation has taken hold.
 
 Still, he’s a simple man with simple wants. He enjoys the heat of a furnace, the smash of steel on steel, and long
-  walks along the Gorge. He dislikes apprentices and unions, and he’s sworn to keep his shop to himself, even if it
+  walks along [The Gorge](/locations/gorge/index.md). He dislikes apprentices and unions, and he’s sworn to keep his shop to himself, even if it
   means customers sometimes have to wait.
 
 A resourceful fellow, he can craft just about anything given the right parts, and he has yet to find a weapon so
