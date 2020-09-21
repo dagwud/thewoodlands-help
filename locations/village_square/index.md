@@ -2,8 +2,8 @@
 The bustle of the village square brings a reassuring comfort to weary adventurers - the only danger here is the
   prices charged by the local bartender.
 
-The square is dominated on the one side by the local tavern. Facing it, within stumbling range, is [The Inn](/locations/inn/index.md).
+The square is dominated on the one side by the local tavern. Facing it, within stumbling range, is [The Inn](../inn/index.md).
 
-See: [Rally](rally.md), [The Tavern](/locations/tavern/index.md), [The Inn](/locations/inn/index.md)
+See: [Rally](rally.md), [The Tavern](../tavern/index.md), [The Inn](../inn/index.md)
 
 

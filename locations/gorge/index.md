@@ -1,5 +1,5 @@
 ### 🐲The Gorge🐲
-Over countless years, the river has cut a deep gorge through the terrain south of [The Village](/locations/village_square/index.md).
+Over countless years, the river has cut a deep gorge through the terrain south of [The Village](../village_square/index.md).
 
 Along the walls of this gorge, fearsome dragons have clawed out homes from the soft rock which also forms the cave
   system, and have made themselves at home. From here they launch raids out over the nearby farmlands to pick off

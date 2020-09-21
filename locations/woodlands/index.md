@@ -11,6 +11,6 @@ To counterbalance this, victories in the Woodlands earn more experience.
 
 The difficulty of the creatures you encounter will automatically scale based on the stats of your party.
 
-See: [Battles](/battles.md), [Deep Woods](/locations/deep_woods/index.md)
+See: [Battles](/battles.md), [Deep Woods](../deep_woods/index.md)
 
 

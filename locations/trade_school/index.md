@@ -7,6 +7,6 @@ Various courses are offered here, allowing adventures to improve themselves by a
 
 The Trade School has strict entrance requirements, only tutoring to those who have reached level 8.
 
-See: [Study](/locations/trade_school/study.md)
+See: [Study](../trade_school/study.md)
 
 

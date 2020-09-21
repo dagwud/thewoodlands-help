@@ -4,13 +4,13 @@ You can tame pets using the 📚Animal Mastery skill.
 Pets are loyal companions who’ll accompany you throughout your travels, because every good adventurer needs a
   pet.
 
-Pets are tamed from the wild, so to get one you’ll need to [Study](/locations/trade_school/study.md) at least first-level 📚Animal Mastery. Once
-  you’ve done that, go to [The Petting Zoo](/locations/petting_zoo/index.md) and use the `/skill` menu to start taming a wild beast to be your pet.
+Pets are tamed from the wild, so to get one you’ll need to [Study](../trade_school/study.md) at least first-level 📚Animal Mastery. Once
+  you’ve done that, go to [The Petting Zoo](../petting_zoo/index.md) and use the `/skill` menu to start taming a wild beast to be your pet.
 
-How long it takes and your chances of success are based on how much you’ve studied 📚 Animal Mastery (you can [study](/locations/trade_school/study.md)
+How long it takes and your chances of success are based on how much you’ve studied 📚 Animal Mastery (you can [study](../trade_school/study.md)
   skills more than once to get better at them)
 
-If you leave [The Petting Zoo](/locations/petting_zoo/index.md) while taming, your pet will run away and you’ll have to start over. While someone is
+If you leave [The Petting Zoo](../petting_zoo/index.md) while taming, your pet will run away and you’ll have to start over. While someone is
   taming a pet, no fights will happen. It’ll be weirdly quiet while you all just stand around watching.
 
 Chance of successfully taming a pet:

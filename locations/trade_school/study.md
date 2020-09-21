@@ -4,7 +4,7 @@ From level 8 and up, you can start learning additional skills. Each skill unlock
 
 Your proficiency in a skill is determined by the number of courses you have completed in that skill.
 
-Courses are offered at the Trade School, in [The Outpost](/locations/outpost/index.md). Each time you level up, starting when you reach L8, you
+Courses are offered at the Trade School, in [The Outpost](../outpost/index.md). Each time you level up, starting when you reach L8, you
   can complete one additional course.
 
 The skills that you can study are:
