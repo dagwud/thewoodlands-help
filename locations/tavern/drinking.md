@@ -7,6 +7,6 @@ Alcohol is freely available at [The Tavern](../tavern/index.md). The effects of 
 
 That said, it’s the best way to deal with the death of a fellow traveler.
 
-See: [Death](/death.md)
+See: [Death](../../death.md)
 
 

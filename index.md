@@ -27,27 +27,27 @@ Note: It’s highly recommended that you play with a few friends (or strangers) 
   - Join the [telegram channel](https://t.me/woodlands_raven) to ask questions. But please RTFM before
     asking.
   - Create a character (`/new`).
-  - Head to [The Tavern](/locations/tavern/index.md) and join a [Party](parties.md).
-  - Send the Party to [The Petting Zoo](/locations/petting_zoo/index.md) to earn experience. When necessary, retreat to [The Inn](/locations/inn/index.md) to rest.
-  - When you’re strong enough, start heading out into [The Mountain](/locations/mountain/index.md) or [The Woodlands](locations/woodlands/index.md) instead of The Petting Zoo.
+  - Head to [The Tavern](locations/tavern/index.md) and join a [Party](parties.md).
+  - Send the Party to [The Petting Zoo](locations/petting_zoo/index.md) to earn experience. When necessary, retreat to [The Inn](locations/inn/index.md) to rest.
+  - When you’re strong enough, start heading out into [The Mountain](locations/mountain/index.md) or [The Woodlands](locations/woodlands/index.md) instead of The Petting Zoo.
   - By this point you should have a solid grasp of the game mechanics and can start exploring the game further.
 
 ### Locations to Visit
 
   - [Village Square](locations/village_square)
-  - [The Petting Zoo](/locations/petting_zoo/index.md)
-  - [The Mountain](/locations/mountain/index.md)
+  - [The Petting Zoo](locations/petting_zoo/index.md)
+  - [The Mountain](locations/mountain/index.md)
   - [The Woodlands](locations/woodlands)
   - [The Caverns](locations/cavern)
-  - [The Outpost](/locations/outpost/index.md)
-  - [The Gorge](/locations/gorge/index.md)
+  - [The Outpost](locations/outpost/index.md)
+  - [The Gorge](locations/gorge/index.md)
 
 
 ### Things to Do
 
   - [Looking around](look.md)
   - [Parties](parties.md)
-  - [Weapons](items/weapons.md), [Shields](/items/shields.md) and [Trinkets](items/trinkets.md) 
+  - [Weapons](items/weapons.md), [Shields](items/shields.md) and [Trinkets](items/trinkets.md) 
   - [Unconsciousness](unconscious.md) and [Death](death.md)
   - [Battles](battles.md)
 

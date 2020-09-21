@@ -3,6 +3,6 @@ Deeper in the Woodlands lurk even more fearsome creatures. Enter at your own per
 
 The rules of engagement are identical to those in [The Woodlands](../woodlands/index.md).
 
-See: [Battles](/battles.md), [The Woodlands](../woodlands/index.md)
+See: [Battles](../../battles.md), [The Woodlands](../woodlands/index.md)
 
 

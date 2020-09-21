@@ -8,6 +8,6 @@ It’s also a generally safe space as long as you’re not alone - tradition dic
 
 As such, it’s best to travel in a group.
 
-See: [Battles](/battles.md)
+See: [Battles](../../battles.md)
 
 

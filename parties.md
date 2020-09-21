@@ -1,11 +1,11 @@
 ### Parties
 A party is a group of two or more characters fighting and traveling together.
 
-To join a party, go to [The Tavern](/locations/tavern/index.md) and use the Join Party option. All characters will need to use the same party
+To join a party, go to [The Tavern](locations/tavern/index.md) and use the Join Party option. All characters will need to use the same party
   name, and will then be grouped together.
 
-To join a party, that party must be somewhere within [The Village](/locations/village_square/index.md). For example, you cannot join a party that is
-  currently out fighting in [The Mountain](/locations/mountain/index.md).
+To join a party, that party must be somewhere within [The Village](locations/village_square/index.md). For example, you cannot join a party that is
+  currently out fighting in [The Mountain](locations/mountain/index.md).
 
 When you choose to join a party, you will also be asked for a group ID. If you have a Telegram group chat where
   coordinate/plan/chat together, you can enter the group chat ID here. Doing so (and adding the bot to this group
@@ -23,10 +23,10 @@ Party members have a certain level of control over one another. Any member who m
 
 To see information about the members of your party, use the `/party` command.
 
-You can leave a party and go off on your own by going to [The Tavern](/locations/tavern/index.md) and choosing the Leave Party option.
+You can leave a party and go off on your own by going to [The Tavern](locations/tavern/index.md) and choosing the Leave Party option.
 
 Any character can only be part of a single party at any time.
 
-See: [The Tavern](/locations/tavern/index.md)
+See: [The Tavern](locations/tavern/index.md)
 
 

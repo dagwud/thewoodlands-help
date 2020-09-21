@@ -14,6 +14,6 @@ Weapons will take damage with use, and after too much use a weapon will be damag
 Ranged weapons also have a finite supply of ☄️ammunition. Once your ammunition runs out, you’ll need to restock
   it.
 
-See: Repair/Restock Weapon (at [The Blacksmith](/locations/blacksmith/index.md), [Claim Item](/locations/tavern/claim_item.md)
+See: Repair/Restock Weapon (at [The Blacksmith](../locations/blacksmith/index.md), [Claim Item](../locations/tavern/claim_item.md)
 
 
