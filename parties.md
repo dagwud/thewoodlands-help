@@ -21,12 +21,12 @@ Party members have a certain level of control over one another. Any member who m
   the dynamics of the game, and so it’s necessary to keep an eye on the health, weapons, etc. of all members in your
   party while adventuring.
 
-To see information about the members of your party, use the /party command.
+To see information about the members of your party, use the `/party` command.
 
 You can leave a party and go off on your own by going to the Tavern and choosing the Leave Party option.
 
 Any character can only be part of a single party at any time.
 
-See: <a href="/locations/tavern">The Tavern
+See: [The Tavern](/locations/tavern/index.md)
 
 

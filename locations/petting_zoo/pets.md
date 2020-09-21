@@ -5,7 +5,7 @@ Pets are loyal companions who’ll accompany you throughout your travels, becaus
   pet.
 
 Pets are tamed from the wild, so to get one you’ll need to #study at least first-level 📚Animal Mastery. Once
-  you’ve done that, go to the Petting Zoo and use the /skill menu to start taming a wild beast to be your pet.
+  you’ve done that, go to the Petting Zoo and use the `/skill` menu to start taming a wild beast to be your pet.
 
 How long it takes and your chances of success are based on how much you’ve studied 📚 Animal Mastery (you can study
   skills more than once to get better at them)

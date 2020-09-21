@@ -17,7 +17,7 @@ Each skill can be further refined to make you better at it by attending addition
 You can study a range of different skills, or focus your efforts on a single skill and take repeat courses to gain
   more and more specialized knowledge.
 
-To use a skill, use the /skill command
+To use a skill, use the `/skill` command
 
 Drunkenness affects your ability to use skills. You have been warned...
 

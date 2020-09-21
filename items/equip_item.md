@@ -10,6 +10,6 @@ Equipping certain trinkets, such as potions, will cause you to consume them. Equ
   example, will cause you to drink the potion, gaining hit points back. At that point, the potion has been used and
   will disappear from your inventory.
 
-To equip an item, use the /inv command and click the /e link next to the appropriate item.
+To equip an item, use the `/inv` command and click the `/e` link next to the appropriate item.
 
 

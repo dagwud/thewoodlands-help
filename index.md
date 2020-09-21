@@ -27,7 +27,7 @@ Note: It’s highly recommended that you play with a few friends (or strangers) 
 
   - Join the [telegram channel](https://t.me/woodlands_raven) to ask questions. But please RTFM before
     asking.
-  - Create a character (/new).
+  - Create a character (`/new`).
   - Head to the Tavern and join a party.
   - Send the Party to the Petting Zoo to earn experience. When necessary, retreat to The Inn to rest.
   - When you’re strong enough, start heading out into the mountain or The Woodlands instead of the Petting Zoo.
