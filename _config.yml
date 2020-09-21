@@ -1,2 +1,8 @@
 theme: jekyll-theme-midnight
 title: Woodlands Help
+subtitle:
+navigation: 1
+sections: [
+  ['locations', 'Village Square'],
+  ['/', 'Things to Do']
+]
