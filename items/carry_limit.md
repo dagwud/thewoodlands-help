@@ -9,6 +9,13 @@ You can reduce the number of items you’re carrying by crafting two items into 
 
 The carry limit only applies to items that are carried, not worn.
 
-See: the sack thingy??, [Drop Item](drop_item.md), [Give Item](give_item.md), [The Inn](../locations/inn/index.md), [Crafting](../locations/blacksmith/crafting.md)
+---
+
+See also: 
+- the sack thingy??
+- [Drop Item](drop_item.md)
+- [Give Item](give_item.md)
+- [The Inn](../locations/inn/index.md)
+- [Crafting](../locations/blacksmith/crafting.md)
 
 

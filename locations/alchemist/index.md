@@ -4,6 +4,6 @@ The Alchemist is a flashy man, who loves melodrama and excitement. His penchant 
 
 Here, he scratches out a living offering enchantments - magical improvements to weapons and shields.
 
-See: Enchant Weapon
+See: [Enchant Weapon](enchant_weapon.md), [Enchant Shield](enchant_shield.md)
 
 

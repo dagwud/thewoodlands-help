@@ -16,6 +16,9 @@ If a fighter drops to 0 hit points, they will be knocked unconscious. An unconsc
 Winning a battle results in experience for all participants, and the chance that the defeated creature will drop an
   item.
 
-See: [Unconsciousness](unconscious.md), [Death](death.md), [Claim Item](locations/tavern/claim_item.md)
+---
+
+See also:
+- [Unconsciousness](unconscious.md), [Death](death.md), [Claim Item](locations/tavern/claim_item.md)
 
 
