@@ -4,6 +4,6 @@ The bustle of the village square brings a reassuring comfort to weary adventurer
 
 The square is dominated on the one side by the local tavern. Facing it, within stumbling range, is [The Inn](/locations/inn/index.md).
 
-See: [Rally](rally.md), [[The Tavern](/locations/tavern/index.md)](/locations/tavern), [[The Inn](/locations/inn/index.md)](/locations/inn)
+See: [Rally](rally.md), [The Tavern](/locations/tavern/index.md), [The Inn](/locations/inn/index.md)
 
 

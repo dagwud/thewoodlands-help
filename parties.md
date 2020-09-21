@@ -27,6 +27,6 @@ You can leave a party and go off on your own by going to [The Tavern](/locations
 
 Any character can only be part of a single party at any time.
 
-See: [[The Tavern](/locations/tavern/index.md)](/locations/tavern/index.md)
+See: [The Tavern](/locations/tavern/index.md)
 
 
