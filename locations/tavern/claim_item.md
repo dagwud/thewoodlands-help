@@ -9,6 +9,6 @@ Using the `/party` command will show if there are any unclaimed items that have 
   into your inventory. You can then equip it for use, give it to someone else, drop it, leave it at the Innkeeper for
   later use, use it for crafting at [The Blacksmith](../blacksmith/index.md), or just carry it around with you.
 
-See: [Carry Limit](/items/carry_limit.md), [Equip Item](/items/equip_item.md), [Drop Item](/items/drop_item.md), [Leave Item](../inn/leave_item.md)
+See: [Carry Limit](../../items/carry_limit.md), [Equip Item](../../items/equip_item.md), [Drop Item](../../items/drop_item.md), [Leave Item](../inn/leave_item.md)
 
 
