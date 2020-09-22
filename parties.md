@@ -33,5 +33,6 @@ Any character can only be part of a single party at any time.
 
 See also:
  - [The Tavern](locations/tavern/index.md)
+ - [Mercenaries](mercenaries.md)
 
 {% include footer.md %}
