@@ -12,7 +12,7 @@ The carry limit only applies to items that are carried, not worn.
 ---
 
 See also: 
-- [Loot Bag](trinkets/lootbag.md)
+- [Loot Bag](trinkets/loot_bag.md)
 - [Drop Item](drop_item.md)
 - [Give Item](give_item.md)
 - [The Inn](../locations/inn/index.md)

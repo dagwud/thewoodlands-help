@@ -1,28 +1,35 @@
 ### List of trinkets
 
-Ammunition Bundle
-Healing Potions
-GreaterHealingPotion
-LesserHealingPotion
-MassiveHealingPotion
+[Ammunition Bundle](ammunition_bundle.md)
 
-Mana Potions
-GreaterManaPotion
-LesserManaPotion
+#### Potions
 
-AmuletOfPower
-BeadsOfPower
-AmuletOfProtection
-BeadsOfProtection
+[Healing Potions](healing_potions.md)
 
-CloakOfShadows
+[Mana Potions](mana_potions.md)
 
-HealingWard
+#### Wards
 
-LootBag
+[Healing Ward](healing_ward.md)
 
-ManaRing
+[Ward of Alacrity](ward_of_alacrity.md)
 
-WardOfAlacrity
+[Ward of Violence](ward_of_violence.md)
 
-WardOfViolence
+#### Worn Items
+
+[Amulet of Power](amulet_of_power.md)
+
+[Beads of Power](beads_of_power.md)
+
+[Amulet of Protection](amulet_of_protection.md)
+
+[Beads of Protection](beads_of_protection.md)
+
+[Cloak of Shadows](cloak_of_shadows.md)
+
+[Loot Bag](loot_bag.md)
+
+[Ring of Mana Regeneration](mana_ring.md)
+
+{% include footer.md %}
