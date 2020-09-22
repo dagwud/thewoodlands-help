@@ -19,4 +19,4 @@ See also:
 - [Crafting](../locations/blacksmith/crafting.md)
 
 
-{% include footer.html %}
+{% include footer.md %}
