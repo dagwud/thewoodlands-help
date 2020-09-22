@@ -6,3 +6,4 @@ sections: [
   ['locations', 'Village Square'],
   ['/', 'Things to Do']
 ]
+baseurl: https://dagwud.github.io/thewoodlands-help/
