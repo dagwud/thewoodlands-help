@@ -1,4 +1,4 @@
-### 📚 Smithery
+## 📚 Smithery
 Studying 📚Smithery unlocks the Repair Item skill, which allows you to repair any item carried by anyone in your
   party.
 

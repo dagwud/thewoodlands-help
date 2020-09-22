@@ -1,4 +1,4 @@
-### Amulet of Protection
+## Amulet of Protection
 
 _🏆🏆🏆 Very Rare_ 
 

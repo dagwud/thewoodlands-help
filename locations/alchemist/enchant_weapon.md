@@ -1,4 +1,4 @@
-### Enchant Weapon
+## Enchant Weapon
 Enchanted weapons have been imbued with magical properties.
 
 Creatures that have unenchanted immunity are immune to all weapons that have not been enchanted.

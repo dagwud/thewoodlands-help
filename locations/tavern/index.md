@@ -1,4 +1,4 @@
-### The Tavern
+## The Tavern
 The Raven is a friendly place, where all are welcome as long as they pay for their drinks. A small table off to the
   side of the bar is reserved for regular patrons, and is almost always occupied by the mayor.
 

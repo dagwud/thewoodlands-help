@@ -1,4 +1,4 @@
-### Healing Potions
+## Healing Potions
 
 Healing potions restore your health (i.e. your remaining hit points).
 

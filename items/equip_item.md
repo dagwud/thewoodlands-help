@@ -1,4 +1,4 @@
-### Equip Item
+## Equip Item
 Equipping an item readies if for active use.
 
 Think of it like this: you’re carrying a bunch of stuff in a bag on your back/strapped to your waist/etc. Equipping

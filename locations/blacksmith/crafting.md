@@ -1,4 +1,4 @@
-### Crafting
+## Crafting
 Crafting allows you to combine two weapons into one better weapon. This manifests in the amount of hits the new
   weapon can deal before requiring repairs and, in the case of ranged weapons, the total ammunition the weapon
   holds.

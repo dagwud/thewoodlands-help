@@ -1,4 +1,4 @@
-### Shield
+## Shield
 Shields offer some protection from attacks against you.
 
 A shield’s job is to deflect incoming attacks, making it harder to hit you - so it will be more likely that your

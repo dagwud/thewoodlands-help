@@ -1,4 +1,4 @@
-### Amulet of Power
+## Amulet of Power
 
 _🏆🏆🏆 Very Rare_ 
 

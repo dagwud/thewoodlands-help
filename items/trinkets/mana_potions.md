@@ -1,4 +1,4 @@
-### Mana Potions
+## Mana Potions
 
 Mana potions restore your mana.
 

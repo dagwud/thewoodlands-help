@@ -1,4 +1,4 @@
-### 🦡The Petting Zoo🦡
+## 🦡The Petting Zoo🦡
 The Petting Zoo is an area of flat, open land just outside [The Village](../village_square/index.md) Square. It’s not literally a Petting Zoo,
   but this is the nickname that stuck. As the closest area to [The Village](../village_square/index.md), this is where the mildest of the dangerous
   creatures from the neighboring areas tend to collect. As such, it makes for a good place for would-be adventurers to

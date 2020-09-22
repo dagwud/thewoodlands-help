@@ -1,4 +1,4 @@
-### Battles
+## Battles
 Battles are the main way to gain experience and items.
 
 A battle is divided into rounds. Each round consists of everyone attacking an opponent, and once each participant

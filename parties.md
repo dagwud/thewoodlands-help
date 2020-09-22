@@ -1,4 +1,4 @@
-### Parties
+## Parties
 A party is a group of two or more characters fighting and traveling together.
 
 To join a party, go to [The Tavern](locations/tavern/index.md) and use the Join Party option. All characters will need to use the same party

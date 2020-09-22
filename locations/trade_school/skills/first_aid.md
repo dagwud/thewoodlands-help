@@ -1,4 +1,4 @@
-### 📚 First Aid
+## 📚 First Aid
 Studying 📚First Aid unlocks the Heal skill.
 
 You can heal anyone in your party (yourself included) by using the `/skill` menu.

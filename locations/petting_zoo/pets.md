@@ -1,4 +1,4 @@
-### Pets
+## Pets
 You can tame pets using the 📚Animal Mastery skill.
 
 Pets are loyal companions who’ll accompany you throughout your travels, because every good adventurer needs a

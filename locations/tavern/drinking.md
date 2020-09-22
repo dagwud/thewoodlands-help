@@ -1,4 +1,4 @@
-### 🍺Drinking
+## 🍺Drinking
 O God, that men should put an enemy into their mouths to steal away their brains!
 
 Alcohol is freely available at [The Tavern](../tavern/index.md). The effects of alcohol are predictable: increased brute strength while

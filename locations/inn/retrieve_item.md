@@ -1,4 +1,4 @@
-### Retrieve Item
+## Retrieve Item
 Any item you have previously left with the Innkeeper can be retrieved later using the Retrieve Item option at the
   Innkeeper.
 

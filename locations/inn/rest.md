@@ -1,4 +1,4 @@
-### Rest
+## Rest
 Rest is a fine medicine. It allows you to recover from your injuries, regain your mana, and sleep off the effects
   of alcohol.
 

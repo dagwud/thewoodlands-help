@@ -1,4 +1,4 @@
-### Loot Bag
+## Loot Bag
 
 _🏆🏆🏆 Very Rare_ 
 

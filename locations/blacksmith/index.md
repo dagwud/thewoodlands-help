@@ -1,4 +1,4 @@
-### The Blacksmith
+## The Blacksmith
 An honest man, the Blacksmith has nevertheless been accused of being a thief and a crook by countless (often drunk)
   travelers, and this reputation has taken hold.
 

@@ -1,4 +1,4 @@
-### 🏰The Bastion🏰
+## 🏰The Bastion🏰
 This is a tower defense area. You don’t fight actively; rather, your role is to keep the towers defending the
   Village intact so that they can repel the invading horde.
 

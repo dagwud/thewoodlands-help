@@ -1,4 +1,4 @@
-### Claim Item
+## Claim Item
 Claiming items is the easiest way to gain new weapons/shields/trinkets.
 
 Any time you do battle against a creature and defeat it (or it flees) there is a chance it will drop an item which

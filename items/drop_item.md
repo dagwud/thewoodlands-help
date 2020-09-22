@@ -1,4 +1,4 @@
-### Drop Item
+## Drop Item
 Dropping an item will discard it. Once dropped, an item is lost to you - you cannot pick it up again, nor can
   anyone else.
 

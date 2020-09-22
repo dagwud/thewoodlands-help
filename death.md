@@ -1,4 +1,4 @@
-### ☠️Death
+## ☠️Death
 Death is no fun. If you die, you’re dead, and there’s no coming back from it.
 
 Fortunately, death isn’t that easy - you have to take a pretty big hit to die, or be knocked unconscious while on

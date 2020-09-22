@@ -1,4 +1,4 @@
-### 📚 Study
+## 📚 Study
 From level 8 and up, you can start learning additional skills. Each skill unlocks an ability which you can perform
   using the /skill menu.
 

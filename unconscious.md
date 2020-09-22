@@ -1,4 +1,4 @@
-### Unconscious
+## Unconscious
 Taking too many beatings will leave you unconscious. While you’re out, you won’t be able to do anything. If you’re
   part of a party, then your conscious travel companions will drag your body around with them (at the expense of speed - they’ll move slower while they do).
 

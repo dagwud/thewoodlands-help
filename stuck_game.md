@@ -1,4 +1,4 @@
-### If the Game Gets Stuck
+## If the Game Gets Stuck
 Sometimes, things go wrong. We don’t like it, but that’s the nature of things.
 
 If the game seems to be confused - especially of the menu options you have don’t seem to match where you are - try

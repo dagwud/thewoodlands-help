@@ -1,4 +1,4 @@
-### Weapons
+## Weapons
 There are two general types of weapons: ⚔️melee weapons, which are used to hit/cut/smash whatever is right in front
   of you, and 🏹ranged weapons, which are used to shoot/throw/lob damaging projectiles at your enemies.
 

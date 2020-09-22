@@ -1,4 +1,4 @@
-### Trade School
+## Trade School
 The Trade School aims to be a center for academic excellence with a reputation widely known, attracting students
   from all over the world. It’s good to have dreams.
 

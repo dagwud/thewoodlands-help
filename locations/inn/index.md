@@ -1,4 +1,4 @@
-### The Inn
+## The Inn
 The Inn is one of the oldest buildings in [The Village](../village_square/index.md), but these days it’s rooms are more often empty than not.
 
 It’s been run by the same Innkeeper for as long as anyone can remember - a man beyond reproach who guarantees the

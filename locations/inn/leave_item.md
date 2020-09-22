@@ -1,4 +1,4 @@
-### Leave Item
+## Leave Item
 You can leave any item you’re carrying with the Innkeeper for safe keeping.
 
 Only you will be able to retrieve this item later.

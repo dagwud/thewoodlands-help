@@ -1,4 +1,4 @@
-### Ring of Mana Regeneration
+## Ring of Mana Regeneration
 
 _🏆🏆 Rare_ 
 

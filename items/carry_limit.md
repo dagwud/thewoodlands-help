@@ -1,4 +1,4 @@
-### Carry Limit
+## Carry Limit
 Each player has a maximum number of items they can carry at any point in time.
 
 Once you’ve reached your carry limit (which can be seen using the `/inv` command) you will not be able to pick up any

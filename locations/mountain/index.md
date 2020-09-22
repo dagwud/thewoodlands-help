@@ -1,4 +1,4 @@
-### ⛰The Mountain⛰
+## ⛰The Mountain⛰
 The Mountain overlooks [The Village](../village_square/index.md), and is home to a variety of small creatures. As such it has become something of
   a proving ground, where many adventurers hone their skills and practice basics.
 

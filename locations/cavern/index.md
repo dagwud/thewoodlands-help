@@ -1,4 +1,4 @@
-### Cavern Entrance
+## Cavern Entrance
 Beyond [The Mountain](../mountain/index.md) lies the entrance to a set of caves, rumored to spread for miles through the surrounding areas.
   The caverns are a labyrinthine complex, where a wrong turn can lead you to dangerous places.
 

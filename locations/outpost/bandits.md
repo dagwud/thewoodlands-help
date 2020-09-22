@@ -1,4 +1,4 @@
-### Bandits
+## Bandits
 The road between [The Village](../village_square/index.md) and [The Outpost](../outpost/index.md) is a dangerous one, home to crews of [Bandits](bandits.md) who prey on
   travelers passing through.
 

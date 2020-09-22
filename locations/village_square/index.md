@@ -1,4 +1,4 @@
-### The Village Square
+## The Village Square
 The bustle of the village square brings a reassuring comfort to weary adventurers - the only danger here is the
   prices charged by the local bartender.
 

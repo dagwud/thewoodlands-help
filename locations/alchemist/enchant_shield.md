@@ -1,4 +1,4 @@
-### Enchant Shield
+## Enchant Shield
 Enchanting a shield gives it an extra magical strength. This makes it more effective in blocking attacks.
 
 To enchant a shield, go to the [Alchemist](../alchemist/index.md). You need to provide the shield to be enchanted, as well as a magical

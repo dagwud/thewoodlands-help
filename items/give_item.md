@@ -1,4 +1,4 @@
-### Give Item
+## Give Item
 If you’re feeling generous, you can gift any item you’re carrying to any other member of to the party. To do this,
   use the `/give` command.
 

@@ -1,4 +1,4 @@
-### Trinkets
+## Trinkets
 Trinkets are items that grant the holder special abilities.
 
 Trinkets can briskly be divided into two categories: wearables and consumables.

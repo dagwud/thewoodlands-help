@@ -1,4 +1,4 @@
-### 🏚️ The Outpost 🏚️
+## 🏚️ The Outpost 🏚️
 Out in the middle of nowhere, The Outpost was once a strategic military vantage point. Over time, though, it has
   decayed through lack of upkeep - thanks largely to misappropriation of funds by the mayor, who preferred to
   “channel” those funds to “investment” in [The Tavern](../tavern/index.md). Now it’s very much sub-prime real estate.

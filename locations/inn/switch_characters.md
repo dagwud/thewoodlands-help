@@ -1,4 +1,4 @@
-### Switch Characters
+## Switch Characters
 todo
 
 {% include footer.md %}
