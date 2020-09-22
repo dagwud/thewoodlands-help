@@ -1,5 +1,7 @@
 ### Amulet of Protection
 
+_🏆🏆🏆 Very Rare_ 
+
 The Amulet of Protection grants the wearer toughness by making them harder to hit.
 
 While wearing it, any enemy attacking you will have less chance of landing a hit.

@@ -1,4 +1,6 @@
-### Ring of Mana Regneration
+### Ring of Mana Regeneration
+
+_🏆🏆 Rare_ 
 
 The effect of the Ring will stay with you as long as it is worn (equipped).
 

@@ -1,5 +1,7 @@
 ### Beads of Power
 
+_🏆🏆 Rare_ 
+
 The Beads of Power grant the wearer resilience in the form of bonus hit points.
 
 While wearing it, your total maximum hit points will be slightly increased.

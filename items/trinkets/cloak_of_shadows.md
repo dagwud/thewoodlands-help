@@ -1,5 +1,7 @@
 ### Cloak of Shadows
 
+_🏆🏆🏆 Very Rare_ 
+
 The Cloak of Shadows makes you harder to see, and so harder to hit.
 
 While wearing it, it will be harder for enemies to land blow on you.
