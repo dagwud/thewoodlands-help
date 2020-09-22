@@ -2,7 +2,9 @@
 A party is a group of two or more characters fighting and traveling together.
 
 To join a party, go to [The Tavern](locations/tavern/index.md) and use the Join Party option. All characters will need to use the same party
-  name, and will then be grouped together.
+  name, and will then be grouped together. 
+  
+To create a new party, do the same - if you try to join a party that doesn't exist it will be created.
 
 To join a party, that party must be somewhere within [The Village](locations/village_square/index.md). For example, you cannot join a party that is
   currently out fighting in [The Mountain](locations/mountain/index.md).
