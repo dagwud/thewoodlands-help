@@ -5,4 +5,4 @@ Sometimes you may be pulled back to [The Village](locations/village_square/index
 This is an indication that the server has been restarted, possibly because of an update or possibly just for
   reasons.
 
-
+{% include footer.md %}

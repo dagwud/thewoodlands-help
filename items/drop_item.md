@@ -7,4 +7,4 @@ If your intention is to give someone else one of your weapons, just give it to t
 
 To drop an item, use the `/inv` command and click the `/d` link next to the appropriate item.
 
-
+{% include footer.md %}

@@ -10,4 +10,4 @@ See also:
  - [Pets](../../petting_zoo/pets.md)
  - [Study](../study.md)
 
-
+{% include footer.md %}

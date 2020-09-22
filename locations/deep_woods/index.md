@@ -9,4 +9,4 @@ See also:
  - [Battles](../../battles.md)
  - [The Woodlands](../woodlands/index.md)
 
-
+{% include footer.md %}

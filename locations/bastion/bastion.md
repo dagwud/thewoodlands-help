@@ -8,8 +8,7 @@ Each round, more and more creatures will attack at once. They will target the to
 
 You have three actions available to you:
 
-
-  - Deploy Tower: deploy an empty tower. It just looks pretty.
+- Deploy Tower: deploy an empty tower. It just looks pretty.
   - Arm Tower: put one of your weapons into the tower, which it will then attack with.
   - Deploy Repair Team: dispatch a team of engineers to repair the damage done to the tower.
 
@@ -21,4 +20,4 @@ When a tower falls, the weapons arming it will be salvaged by the player who pro
 There is no specific end (server resources aside): wave after wave will come at you until you can’t hold out. The
   goal is to see how long you can last.
 
-
+{% include footer.md %}

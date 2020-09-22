@@ -21,4 +21,4 @@ See also:
  - [Claim Item](../locations/tavern/claim_item.md)
  - [Carry Limit](carry_limit.md)
 
-
+{% include footer.md %}

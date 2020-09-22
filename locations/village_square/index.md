@@ -11,4 +11,4 @@ See also:
  - [The Tavern](../tavern/index.md)
  - [The Inn](../inn/index.md)
 
-
+{% include footer.md %}

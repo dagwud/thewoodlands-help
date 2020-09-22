@@ -16,4 +16,4 @@ See also:
  - [Leave Item](leave_item.md)
  - [Retrieve Item](retrieve_item.md)
 
-
+{% include footer.md %}

@@ -10,4 +10,4 @@ See also:
  - [Carry Limit](../../items/carry_limit.md)
  - [Leave Item](leave_item.md)
 
-
+{% include footer.md %}

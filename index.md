@@ -18,13 +18,11 @@ You are one of these adventures.
 Will you make a name or glory and bravery? Of calmness in a dire situation? Or will your body be picked apart by
   the wild beasts and your name lost to history?
 
-
 ### TL;DR - Just Tell Me How to Play
 Note: It’s highly recommended that you play with a few friends (or strangers) in a party. The experience is much
   better than going it alone - and soloing is hard.
 
-
-  - Join the [telegram channel](https://t.me/woodlands_raven) to ask questions. But please RTFM before
+- Join the [telegram channel](https://t.me/woodlands_raven) to ask questions. But please RTFM before
     asking.
   - Create a character (`/new`).
   - Head to [The Tavern](locations/tavern/index.md) and join a [Party](parties.md).
@@ -42,7 +40,6 @@ Note: It’s highly recommended that you play with a few friends (or strangers) 
   - [The Outpost](locations/outpost/index.md)
   - [The Gorge](locations/gorge/index.md)
 
-
 ### Things to Do
 
   - [Looking around](look.md)
@@ -51,9 +48,9 @@ Note: It’s highly recommended that you play with a few friends (or strangers) 
   - [Unconsciousness](unconscious.md) and [Death](death.md)
   - [Battles](battles.md)
 
-
 ### More help
 
   - [If the game seems stuck](stuck_game.md)
   - [Telegram channel for help](https://t.me/woodlands_raven)
 
+{% include footer.md %}

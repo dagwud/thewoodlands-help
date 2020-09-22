@@ -10,4 +10,4 @@ Of course, any traveler who ventures into the Gorge would also make a tasty snac
 Dragons, being flying creatures, cannot be attacked with melee weapons, so if you’re planning to venture into The
   Gorge, best you arm yourself with ranged weapons - and a clean set of underwear.
 
-
+{% include footer.md %}

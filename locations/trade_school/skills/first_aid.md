@@ -10,4 +10,4 @@ The amount of HP you can restore is proportional to your skill level in First Ai
 See also:
  - [Study](../study.md)
 
-
+{% include footer.md %}

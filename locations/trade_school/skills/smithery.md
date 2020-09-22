@@ -11,4 +11,4 @@ The higher your level of [study](../study.md), the more effective your repair wo
 See also:
  - [Study](../study.md)
 
-
+{% include footer.md %}

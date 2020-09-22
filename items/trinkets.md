@@ -17,5 +17,4 @@ See also:
  - [Enchant Weapon](../locations/alchemist/enchant_weapon.md) / [Enchant Shield](../locations/alchemist/enchant_shield.md)
  - [Carry Limit](carry_limit.md)
 
-
-
+{% include footer.md %}

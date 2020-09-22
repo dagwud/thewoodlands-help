@@ -14,4 +14,4 @@ If any member of your party is badly damaged while fighting in the Petting Zoo, 
 See also:
  - [Battles](../../battles.md)
 
-
+{% include footer.md %}

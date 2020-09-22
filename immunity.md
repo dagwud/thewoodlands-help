@@ -7,4 +7,4 @@ Attacking something that has (for example) ⚕Immunity: Unenchanted with a weapo
 
 You’ll swing, you’ll hit, and you’ll do 0 damage.
 
-
+{% include footer.md %}

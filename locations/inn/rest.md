@@ -13,4 +13,4 @@ You can only perform a finite number of short rests before needing to take a pro
 See also:
  - [The Inn](../inn/index.md)
 
-
+{% include footer.md %}

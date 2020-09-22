@@ -34,3 +34,5 @@ Pets can get into fights between themselves if left alone (Eg while the party re
 
 See also:
  - [Animal Mastery](../trade_school/skills/animal_mastery.md)
+
+{% include footer.md %}

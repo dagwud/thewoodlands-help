@@ -12,4 +12,4 @@ The Trade School has strict entrance requirements, only tutoring to those who ha
 See also:
  - [Study](../trade_school/study.md)
 
-
+{% include footer.md %}

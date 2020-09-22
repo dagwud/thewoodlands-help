@@ -7,4 +7,4 @@ To regain consciousness, your party should drag you back to [The Village](locati
 
 Note that a party will move slower while dragging unconscious bodies.
 
-
+{% include footer.md %}

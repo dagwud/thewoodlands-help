@@ -7,4 +7,4 @@ The would-be recipient must be a member of the same party, conscious, and in the
 
 You also cannot give an item to someone who has reached their carry limit.
 
-
+{% include footer.md %}

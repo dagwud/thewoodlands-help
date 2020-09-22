@@ -29,4 +29,4 @@ See also:
  - [Animal Mastery](skills/animal_mastery.md)
  - [Trade School](index.md)
 
-
+{% include footer.md %}

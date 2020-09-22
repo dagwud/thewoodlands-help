@@ -10,4 +10,4 @@ See also:
  - [Enchant Weapon](enchant_weapon.md)
  - [Enchant Shield](enchant_shield.md)
 
-
+{% include footer.md %}

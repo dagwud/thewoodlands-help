@@ -6,4 +6,4 @@ The `/rally` command allow you to summon your party to join you wherever you are
 
 Rallying will have no effect on characters who are busy with something else - eg resting, studying or drinking.
 
-
+{% include footer.md %}

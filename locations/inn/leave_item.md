@@ -10,4 +10,4 @@ There is no limit to how many items you can leave with the Innkeeper.
 See also:
  - [Retrieve Item](retrieve_item.md)
 
-
+{% include footer.md %}

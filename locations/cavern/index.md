@@ -4,4 +4,4 @@ Beyond [The Mountain](../mountain/index.md) lies the entrance to a set of caves,
 
 There is a route from [The Village](../village_square/index.md) to [The Outpost](../outpost/index.md) through the Caverns which bypasses the treacherous open road.
 
-
+{% include footer.md %}

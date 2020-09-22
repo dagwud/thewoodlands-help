@@ -17,4 +17,4 @@ See also:
  - [Battles](../../battles.md)
  - [Deep Woods](../deep_woods/index.md)
 
-
+{% include footer.md %}

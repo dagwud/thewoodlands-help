@@ -14,4 +14,4 @@ See also:
  - [Enchant Shield](../locations/alchemist/enchant_shield.md)
  - [Carry Limit](carry_limit.md)
 
-
+{% include footer.md %}

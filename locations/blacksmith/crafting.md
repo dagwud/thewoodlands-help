@@ -15,4 +15,4 @@ See also:
  - [The Blacksmith](../blacksmith/index.md)
  - [Claim Item](../tavern/claim_item.md)
 
-
+{% include footer.md %}

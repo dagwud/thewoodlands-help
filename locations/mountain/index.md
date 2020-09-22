@@ -13,4 +13,4 @@ As such, it’s best to travel in a group.
 See also: 
  - [Battles](../../battles.md)
 
-
+{% include footer.md %}

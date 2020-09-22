@@ -13,4 +13,4 @@ Tougher adventurers deserve bigger celebrations, and so the amount of alcohol co
 
 The hangover for a fallen L20 can last (literally) days.
 
-
+{% include footer.md %}

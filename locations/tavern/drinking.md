@@ -12,4 +12,4 @@ That said, it’s the best way to deal with the death of a fellow traveler.
 See also:
  - [Death](../../death.md)
 
-
+{% include footer.md %}

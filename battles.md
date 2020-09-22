@@ -23,4 +23,4 @@ See also:
  - [Death](death.md)
  - [Claim Item](locations/tavern/claim_item.md)
 
-
+{% include footer.md %}

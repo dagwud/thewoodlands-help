@@ -18,5 +18,4 @@ See also:
 - [The Inn](../locations/inn/index.md)
 - [Crafting](../locations/blacksmith/crafting.md)
 
-
 {% include footer.md %}

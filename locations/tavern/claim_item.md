@@ -17,4 +17,4 @@ See also:
  - [Drop Item](../../items/drop_item.md)
  - [Leave Item](../inn/leave_item.md)
 
-
+{% include footer.md %}

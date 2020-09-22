@@ -16,4 +16,4 @@ See also:
  - [Claim Item](claim_item.md)
  - [Parties](../../parties.md)
 
-
+{% include footer.md %}

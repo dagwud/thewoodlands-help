@@ -12,4 +12,4 @@ A resourceful fellow, he can craft just about anything given the right parts, an
 
 He also stocks a variety of ammunition, to go in just about every conceivable ranged weapon.
 
-
+{% include footer.md %}

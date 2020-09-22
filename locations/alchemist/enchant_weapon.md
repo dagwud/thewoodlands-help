@@ -12,4 +12,4 @@ See also:
  - [Immunity](../../immunity.md)
  - [Trinkets](../../items/trinkets.md)
 
-
+{% include footer.md %}

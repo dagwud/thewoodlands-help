@@ -14,4 +14,4 @@ See also:
  - [Trade School](../trade_school/index.md)
  - [The Cavern](../cavern/index.md)
 
-
+{% include footer.md %}
