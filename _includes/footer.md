@@ -1,8 +1,8 @@
 
 ---
-[List of Locations to visit]({site.baseurl}/locations/index.md) 
- | [Looking around]({site.baseurl}/look.md) 
- | [Parties]({site.baseurl}/parties.md)
- | [Weapons]({site.baseurl}/items/weapons.md), [Shields]({site.baseurl}/items/shields.md) and [Trinkets]({site.baseurl}/items/trinkets.md) 
- | [Unconsciousness]({site.baseurl}/unconscious.md) and [Death]({site.baseurl}/death.md)
- | [Battles]({site.baseurl}/battles.md)
+[List of Locations to visit](/thewoodlands-help//locations/index.md) 
+ | [Looking around](/thewoodlands-help//look.md) 
+ | [Parties](/thewoodlands-help//parties.md)
+ | [Weapons](/thewoodlands-help//items/weapons.md), [Shields](/thewoodlands-help//items/shields.html) and [Trinkets](/thewoodlands-help//items/trinkets.md) 
+ | [Unconsciousness](/thewoodlands-help//unconscious.md) and [Death](/thewoodlands-help//death.md)
+ | [Battles](/thewoodlands-help//battles.md)
