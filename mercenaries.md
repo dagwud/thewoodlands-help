@@ -12,6 +12,7 @@ Mercenaries can never take your party beyond 4 members; any more than that and t
 ---
 
 See also:
+ - [Parties](parties.md)
  - [The Tavern](locations/tavern/index.md)
 
 {% include footer.md %}
