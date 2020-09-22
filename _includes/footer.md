@@ -1,9 +1,9 @@
 
 ---
 [Home](/thewoodlands-help/)
- | [List of Locations to visit](/thewoodlands-help/locations/index.md) 
- | [Looking around](/thewoodlands-help/look.md) 
- | [Parties](/thewoodlands-help/parties.md)
- | [Weapons](/thewoodlands-help/items/weapons.md), [Shields](/thewoodlands-help/items/shields.html) and [Trinkets](/thewoodlands-help/items/trinkets.md) 
- | [Unconsciousness](/thewoodlands-help/unconscious.md) and [Death](/thewoodlands-help/death.md)
- | [Battles](/thewoodlands-help/battles.md)
+ | [List of Locations to visit](/thewoodlands-help/locations/index.html) 
+ | [Looking around](/thewoodlands-help/look.html) 
+ | [Parties](/thewoodlands-help/parties.html)
+ | [Weapons](/thewoodlands-help/items/weapons.html), [Shields](/thewoodlands-help/items/shields.html) and [Trinkets](/thewoodlands-help/items/trinkets.html) 
+ | [Unconsciousness](/thewoodlands-help/unconscious.html) and [Death](/thewoodlands-help/death.html)
+ | [Battles](/thewoodlands-help/battles.html)
