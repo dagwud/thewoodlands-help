@@ -16,5 +16,6 @@ Potions can also be used to enchant items at the [Alchemist](../locations/alchem
 See also: 
  - [Enchant Weapon](../locations/alchemist/enchant_weapon.md) / [Enchant Shield](../locations/alchemist/enchant_shield.md)
  - [Carry Limit](carry_limit.md)
+ - [List of Trinkets](trinkets/index.md)
 
 {% include footer.md %}
