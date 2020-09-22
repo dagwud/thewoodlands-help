@@ -19,6 +19,8 @@ Winning a battle results in experience for all participants, and the chance that
 ---
 
 See also:
-- [Unconsciousness](unconscious.md), [Death](death.md), [Claim Item](locations/tavern/claim_item.md)
+ - [Unconsciousness](unconscious.md)
+ - [Death](death.md)
+ - [Claim Item](locations/tavern/claim_item.md)
 
 

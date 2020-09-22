@@ -4,6 +4,10 @@ Any item you have previously left with the Innkeeper can be retrieved later usin
 
 You will need to have space available in hour inventory to retrieve an item.
 
-See: [Carry Limit](../../items/carry_limit.md), [Leave Item](leave_item.md)
+---
+
+See also:
+ - [Carry Limit](../../items/carry_limit.md)
+ - [Leave Item](leave_item.md)
 
 

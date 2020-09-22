@@ -30,4 +30,7 @@ The following types of animals can be tamed into pets:
 
 Pets can get into fights between themselves if left alone (Eg while the party rests).
 
+---
 
+See also:
+ - [Animal Mastery](../trade_school/skills/animal_mastery.md)

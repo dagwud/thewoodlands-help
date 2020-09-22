@@ -21,6 +21,12 @@ To use a skill, use the `/skill` command
 
 Drunkenness affects your ability to use skills. You have been warned...
 
-See: [Smithery](skills/smithery.md), [First Aid](skills/first_aid.md), [Animal Mastery](skills/animal_mastery.md)
+---
+
+See also:
+ - [Smithery](skills/smithery.md)
+ - [First Aid](skills/first_aid.md)
+ - [Animal Mastery](skills/animal_mastery.md)
+ - [Trade School](index.md)
 
 

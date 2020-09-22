@@ -9,6 +9,11 @@ The innkeeper is a friend, and has offered to look after any items you may wish 
 
 He also offers rooms where weary or beaten travelers can rest.
 
-See: [Rest](rest.md), [Leave Item](leave_item.md), [Retrieve Item](retrieve_item.md)
+---
+
+See also:
+ - [Rest](rest.md)
+ - [Leave Item](leave_item.md)
+ - [Retrieve Item](retrieve_item.md)
 
 

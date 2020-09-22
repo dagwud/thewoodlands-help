@@ -8,6 +8,10 @@ A shield’s job is to deflect incoming attacks, making it harder to hit you - s
 A shield also only offers a measure of protection - if you are severely outmatched in a fight, chances are the
   enemy will have no problem getting past your shield.
 
-See: [Enchant Shield](../locations/alchemist/enchant_shield.md), [Carry Limit](carry_limit.md)
+---
+
+See also:
+ - [Enchant Shield](../locations/alchemist/enchant_shield.md)
+ - [Carry Limit](carry_limit.md)
 
 

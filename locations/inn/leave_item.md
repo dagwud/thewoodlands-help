@@ -5,6 +5,9 @@ Only you will be able to retrieve this item later.
 
 There is no limit to how many items you can leave with the Innkeeper.
 
-See: [Retrieve Item](retrieve_item.md)
+---
+
+See also:
+ - [Retrieve Item](retrieve_item.md)
 
 

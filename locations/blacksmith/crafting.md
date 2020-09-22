@@ -9,6 +9,10 @@ Crafting two weapons gives you a boost to the resulting weapon’s max hits, but
 
 When crafting ranged weapons, you also get increased ammunition capacity by combining two weapons together.
 
-See: [The Blacksmith](../blacksmith/index.md), [Claim Item](../tavern/claim_item.md)
+---
+
+See also:
+ - [The Blacksmith](../blacksmith/index.md)
+ - [Claim Item](../tavern/claim_item.md)
 
 
