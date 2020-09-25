@@ -1,6 +1,7 @@
 
 ---
 [Home](/thewoodlands-help/)
+ | [Character Stats](/thewoodlands-help/character/stats.html)
  | [List of Locations to visit](/thewoodlands-help/locations/index.html) 
  | [Looking around](/thewoodlands-help/look.html) 
  | [Parties](/thewoodlands-help/parties.html)
