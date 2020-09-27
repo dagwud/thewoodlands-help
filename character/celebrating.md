@@ -11,6 +11,6 @@ To celebrate, head to [The Tavern](../locations/tavern.md) and choose the Celebr
 ---
 
 See also:
- - Character Stats(stats.md)
+ - [Character Stats](stats.md)
 
 {% include footer.md %}
