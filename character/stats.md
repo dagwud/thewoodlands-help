@@ -24,6 +24,6 @@ A higher constitution gives you greater hit point recovery for each rest, as wel
 
 See also:
  - [Skills](../locations/trade_school/study.md)
- - Celebrating(celebrating.md)
+ - [Celebrating](celebrating.md)
 
 {% include footer.md %}
