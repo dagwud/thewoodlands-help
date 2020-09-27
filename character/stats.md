@@ -19,7 +19,7 @@ Constitution defines how well you can roll with the punches.
 
 A higher constitution gives you greater hit point recovery for each rest, as well as increasing the number of hit points you gain each time you level up.
 
-## 💚Hit Points / Max Hit Points
+### 💚Hit Points / Max Hit Points
 Your Hit Points are an indication of your health.
 
 Each character has a maximum HP value, indicating how many hits they can take at full health, as well as a current HP value indicating how many hits they can still take before being knocked unconscious.
@@ -32,7 +32,7 @@ Each time you level up, your maximum HP will be increased slightly, influenced b
 
 Your HP and maximum HP values can be seen via the /me or /party commands.
 
-## ✨Mana / Max Mana
+### ✨Mana / Max Mana
 Mana is the fuel that powers special abilities and spells.
 
 Each character has a maximum mana value, indicating how many spells they can cast when fully charged, as well as a current mana value indicating how many spells they can still cast before their rank runs empty.
