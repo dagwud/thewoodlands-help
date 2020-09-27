@@ -6,7 +6,7 @@ On doing so, you will be able to permanently increase your character's [stats](s
 
 When a celebration is available, you'll see the 🎉 icon next to your character's name in the /party screen.
 
-To celebrate, head to [The Tavern](../locations/tavern.md) and choose the Celebrate option. This option will not be shown if you don't have any celebrations available.
+To celebrate, head to [The Tavern](../locations/tavern/index.md) and choose the Celebrate option. This option will not be shown if you don't have any celebrations available.
 
 ---
 
