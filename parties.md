@@ -1,6 +1,8 @@
 ## Parties
 A party is a group of two or more characters fighting and traveling together.
 
+The Woodlands is designed to be played with four people in a party. More than this and the game may be too easy; less than this and you'll struggle to get going. If you do plan to play with a smaller party, you can hire [Mercenaries](mercenaries.md) to swell your numbers. 
+
 To join a party, go to [The Tavern](locations/tavern/index.md) and use the Join Party option. All characters will need to use the same party
   name, and will then be grouped together. 
   
@@ -9,7 +11,7 @@ To create a new party, do the same - if you try to join a party that doesn't exi
 To join a party, that party must be somewhere within [The Village](locations/village_square/index.md). For example, you cannot join a party that is
   currently out fighting in [The Mountain](locations/mountain/index.md).
 
-When you choose to join a party, you will also be asked for a group ID. If you have a Telegram group chat where
+When you choose to create or join a party, you will also be asked for a group ID. If you have a Telegram group chat where
   coordinate/plan/chat together, you can enter the group chat ID here. Doing so (and adding the bot to this group
   chat) will cause the bot to send important updates to your group chat, such as when someone sends the party out
   fighting, or if anyone dies. You will also then be able to chat with party members by typing messages in your
@@ -33,5 +35,6 @@ Any character can only be part of a single party at any time.
 
 See also:
  - [The Tavern](locations/tavern/index.md)
+ - [Mercenaries](mercenaries.md)
 
 {% include footer.md %}

@@ -26,6 +26,7 @@ Note: It’s highly recommended that you play with a few friends (or strangers) 
     asking.
   - Create a character (`/new`).
   - Head to [The Tavern](locations/tavern/index.md) and join a [Party](parties.md).
+  - If you're playing alone, fill your party with [Mercenaries](mercenaries.md).
   - Send the Party to [The Petting Zoo](locations/petting_zoo/index.md) to earn experience. When necessary, retreat to [The Inn](locations/inn/index.md) to rest.
   - When you’re strong enough, start heading out into [The Mountain](locations/mountain/index.md) or [The Woodlands](locations/woodlands/index.md) instead of The Petting Zoo.
   - By this point you should have a solid grasp of the game mechanics and can start exploring the game further.

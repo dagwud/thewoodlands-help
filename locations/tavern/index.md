@@ -14,6 +14,7 @@ The back room of the tavern houses a perpetual poker table, and the dusty alley 
 See also:
  - [Drinking](drinking.md)
  - [Claim Item](claim_item.md)
+ - [Celebrating](../../character/celebrating.md)
  - [Parties](../../parties.md)
 
 {% include footer.md %}

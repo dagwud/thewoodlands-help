@@ -8,6 +8,7 @@ A short rest will get you up and running again quickly, while a long rest will f
 
 You can only perform a finite number of short rests before needing to take a proper break and rest fully.
 
+The amount of time you need to rest in order to recover is dependent on your level.
 ---
 
 See also:
