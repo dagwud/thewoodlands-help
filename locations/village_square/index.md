@@ -9,6 +9,7 @@ The square is dominated on the one side by the local tavern. Facing it, within s
 See also:
  - [Rally](rally.md)
  - [The Tavern](../tavern/index.md)
+ - [The Blacksmith](../blacksmith/index.md)
  - [The Inn](../inn/index.md)
 
 {% include footer.md %}
