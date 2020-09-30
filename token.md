@@ -26,9 +26,9 @@ Yes, but each token can only be used once.
 
 ### What if the token doesn't work?
 
-Ask on the [telegram channel](https://t.me/woodlands_raven). But it should work... it's really a very simple.
+Ask on the [telegram channel](https://t.me/woodlands_raven). But it should work... it's really a very simple system.
 
 ### How do I play the game?
-Check the main [index.md](help site)
+Check the main [help site](index.md)
 
 {% include footer.md %}
