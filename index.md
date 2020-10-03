@@ -31,6 +31,9 @@ Note: It’s highly recommended that you play with a few friends (or strangers) 
   - When you’re strong enough, start heading out into [The Mountain](locations/mountain/index.md) or [The Woodlands](locations/woodlands/index.md) instead of The Petting Zoo.
   - By this point you should have a solid grasp of the game mechanics and can start exploring the game further.
 
+### Choosing your Character
+ - [Character Classes](character-classes/index.md)
+
 ### Locations to Visit
 
   - [Village Square](locations/village_square)
