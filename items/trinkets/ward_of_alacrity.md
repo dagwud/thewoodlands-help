@@ -1,4 +1,4 @@
-## Ward of Alacrity
+## 🔮Ward of Alacrity
 
 _🏆🏆 Rare_ 
 
