@@ -1,4 +1,4 @@
-## Beads of Power
+## 📿Beads of Power
 
 _🏆🏆 Rare_ 
 
