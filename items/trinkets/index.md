@@ -29,6 +29,8 @@ Once equipped, they cannot be put back into your inventory - they can only be [d
 
 These are fashion statements with a punch; you wear them on your body, and so they don't count towards your [Carry Limit](../carry_limit.md) as long as you're wearing them.
 
+Note that you can only wear two items at a time. If you try to put on a third wearable item, you will automatically take off one of the items you're already wearing. 
+
 [Amulet of Power](amulet_of_power.md)
 
 [Beads of Power](beads_of_power.md)
