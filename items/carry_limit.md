@@ -7,7 +7,7 @@ Once you’ve reached your carry limit (which can be seen using the `/inv` comma
 You can reduce the number of items you’re carrying by crafting two items into one, giving an item to someone else,
   leaving items at the innkeeper, or just plain dropping an item.
 
-The carry limit only applies to items that are carried, not worn.
+The carry limit only applies to items that are carried, not worn. However, wearable items that aren't actually being worn (i.e. are just being carried) do count towards the carry limit.
 
 ---
 
