@@ -1,4 +1,4 @@
-## Beads of Protection
+## 📿Beads of Protection
 
 _🏆🏆 Rare_ 
 
