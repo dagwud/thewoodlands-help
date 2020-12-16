@@ -14,15 +14,11 @@ This is a hobby game, not some big for-profit thing. It runs on limited server i
 
 ### How do I get a token?
 
-Join the [telegram channel](https://t.me/woodlands_raven) and ask for one. Simple as that.
+Send the bot a `/token` command - that's it. If there are tokens available, you'll be allocated one and you're good to go. 
 
-### What do I do with this token?
+### What if there are no tokens available?
 
-Send the bot a `/token` command, then when it asks for the token, provide the six-letter code you've been given.
-
-### Are tokens transferable?
-
-Yes, but each token can only be used once.
+Ask on the [telegram channel](https://t.me/woodlands_raven) if more tokens can be allocated. This will depend on available server capacity.
 
 ### What if the token doesn't work?
 
