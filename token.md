@@ -18,7 +18,7 @@ Send the bot a `/token` command - that's it. If there are tokens available, you'
 
 ### What if there are no tokens available?
 
-Ask on the [telegram channel](https://t.me/woodlands_raven) if more tokens can be allocated. This will depend on available server capacity.
+Ask on the [telegram channel](https://t.me/woodlands_raven) if more tokens can be created. This will depend on available server capacity.
 
 ### What if the token doesn't work?
 
