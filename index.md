@@ -24,7 +24,6 @@ Note: It’s highly recommended that you play with a few friends (or strangers) 
 
 - Join the [telegram channel](https://t.me/woodlands_raven) to ask questions. But please RTFM before
     asking.
-  - Get a [Token](token.md)
   - Create a character (`/new`).
   - Head to [The Tavern](locations/tavern/index.md) and join a [Party](parties.md).
   - If you're playing alone, fill your party with [Mercenaries](mercenaries.md).
