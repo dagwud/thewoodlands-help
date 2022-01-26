@@ -1,9 +1,15 @@
 ### Locations to Visit
 
-  - [Village Square](locations/village_square)
-  - [The Petting Zoo](locations/petting_zoo/index.md)
-  - [The Mountain](locations/mountain/index.md)
+  - [Village Square](locations/village_square/)
+    - [The Blacksmith](locations/blacksmith/)
+    - [The Inn](locations/inn/index.md)
+    - [The Tavern](locations/tavern/)
+  - [The Petting Zoo](locations/petting_zoo/)
+  - [The Mountain](locations/mountain/)
   - [The Woodlands](locations/woodlands)
+    - [Deep Woods](locations/deep_woods/)
   - [The Caverns](locations/cavern)
   - [The Outpost](locations/outpost/index.md)
+    - [The Alchemist](locations/alchemist/)
+    - [Trade School](locations/trade_school/)
   - [The Gorge](locations/gorge/index.md)
